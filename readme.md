@@ -26,6 +26,11 @@ Im Rahmen meiner Umschulung (IBB) suche ich ein **9-monatiges Betriebspraktikum*
 
 Hier eine Auswahl meiner Projekte, die meine Entwicklung vom theoretischen Unterricht bis zum eigenständigen Projekt zeigen:
 
+#### 🤖 [iSlave](https://github.com/NiklasKlemm/iSlave) *(Fork / Teamprojekt)*
+> **Terminal-Steuerungssystem** für einen humanoiden Haushaltsroboter  
+* **Tech:** Python
+* **Fokus:** Zusammenarbeit in der Gruppe / Klasse (IBB FIAE A1 Winter), Umgang mit bestehenden Codebases, Fork- & Branch-Workflows in Git und agile Arbeitsweise in einen Projekt.
+* 
 #### 🎲 [pnp-discord-bot](https://github.com/NiklasKlemm/pnp-discord-bot)
 > **Discord-Bot mit passwortgeschütztem Web-Dashboard** für eine Pen-&-Paper-Rollenspielrunde  
 * **Tech:** Python, Discord API, Web-Dashboard, Authentifizierung
@@ -35,11 +40,6 @@ Hier eine Auswahl meiner Projekte, die meine Entwicklung vom theoretischen Unter
 > **Modulare Terminalanwendung** zur Simulation eines Bestell- und Lieferprozesses  
 * **Tech:** Python (CLI)
 * **Fokus:** Anwendungslogik, strukturierte Benutzerführung auf der Konsole, Datenfluss und Fehlerabfangung basierend auf praxisnahen Projektanforderungen.
-
-#### 🤖 [iSlave](https://github.com/NiklasKlemm/iSlave) *(Fork / Teamprojekt)*
-> **Terminal-Steuerungssystem** für einen humanoiden Haushaltsroboter  
-* **Tech:** Python
-* **Fokus:** Zusammenarbeit in der Gruppe / Klasse (IBB FIAE A1 Winter), Umgang mit bestehenden Codebases, Fork- & Branch-Workflows in Git und agile Arbeitsweise in einen Projekt.
 
 #### 📖 [fiae-learning-journey-unterricht](https://github.com/NiklasKlemm/fiae-learning-journey-unterricht)
 > **Kontinuierliche Dokumentation** meines Ausbildungscurriculums  
