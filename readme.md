@@ -50,5 +50,5 @@ Hier eine Auswahl meiner Projekte, die meine Entwicklung vom theoretischen Unter
 
 ### 📫 Kontakt & Steckbrief
 
-* 📍 **Standort:** [Hannover]
-* ✉️ **E-Mail:** [niklas.klemm1@gmail.com]
+* 📍 **Standort:** Hannover
+* ✉️ **E-Mail:** niklas.klemm1@gmail.com
