@@ -30,7 +30,7 @@ Hier eine Auswahl meiner Projekte, die meine Entwicklung vom theoretischen Unter
 > **Terminal-Steuerungssystem** für einen humanoiden Haushaltsroboter  
 * **Tech:** Python
 * **Fokus:** Zusammenarbeit in der Gruppe / Klasse (IBB FIAE A1 Winter), Umgang mit bestehenden Codebases, Fork- & Branch-Workflows in Git und agile Arbeitsweise in einen Projekt.
-* 
+  
 #### 🎲 [pnp-discord-bot](https://github.com/NiklasKlemm/pnp-discord-bot)
 > **Discord-Bot mit passwortgeschütztem Web-Dashboard** für eine Pen-&-Paper-Rollenspielrunde  
 * **Tech:** Python, Discord API, Web-Dashboard, Authentifizierung
